@@ -93,7 +93,7 @@ section h2 {
 }
 
 #sports {
-    background-color: rgba(0, 255, 0, 0.1);
+    background-color: rgba(0, 255, 0, 0.5);
 }
 
 #sports .articles article a {
@@ -101,9 +101,25 @@ section h2 {
 }
 
 #economy {
-    background-color: goldenrod;
+    background-color: rgb(236, 170, 1, 0.5);
 }
 
 #economy .articles article a {
     background-color: gold;
+}
+
+#ent {
+    background-color: rgb(119, 140, 242, 0.5);
+}
+
+#ent .articles article a {
+    background-color: rgb(0, 46, 153);
+}
+
+#tec {
+    background-color: rgb(253, 121, 121, 0.5);
+}
+
+#tec .articles article a {
+    background-color: rgb(151, 39, 39);
 }
